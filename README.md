@@ -27,4 +27,3 @@ Analysis of recent local congressional election show that:
     - Raymon A. Doane received 3.1% of the vote and 11,606 votes.
 - The winner of the election was:
     - Ms. Diana DeGette who received 73.8% of the vote and 272,892 votes.
-
