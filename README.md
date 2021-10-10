@@ -10,7 +10,8 @@ The following audit reviews a recent congressional election's results between th
 The following results are analyzed to produce the voter turnout for each respective county, the percentage of votes per county out of the entire count, and which county had the highest voter turnout.
 
 ## Election Audit Results
-<INSERT IMAGE>
+![written_results](https://user-images.githubusercontent.com/90368828/136684583-2d13b21b-7db2-4fd1-9f6f-7f019a0bc0f8.png)
+
 - There was a total of **369,711 votes** casted in this congressional election.
 - Out of the 369,711 votes casted, **82.8% of the votes** were received in Denver County, **10.5% (38,855)** in Jefferson County, and **6.7% (24,801)** in Arapahoe County.
 - **Denver County represents the largest portion of the total votes** with 306,055 votes placed within this precinct.
